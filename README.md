@@ -1,12 +1,18 @@
-# Data Analyst
+# Senior Data Analyst
 
 ### Education
 Master in Computer and Information Science
 
 ### Work Experience
-Senior Data Analyst @ FedEx Services
--big impact project 1!
--big impact project 2!
+Senior Data Analyst @ 
+
+Data Analyst @ 
+
+Data Engineer @
 
 ### Projects
-EEG Band Discovery
+Project 1:
+
+Project 2:
+
+Project 3:
